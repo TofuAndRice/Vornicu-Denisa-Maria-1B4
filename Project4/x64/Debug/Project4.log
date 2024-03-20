@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Sort.cpp
+C:\C++\FACULTATE\Project4\main.cpp(17,5): error C2228: left of '.Print' must have class/struct/union
+C:\C++\FACULTATE\Project4\Sort.cpp(46,12): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C++\FACULTATE\Project4\Sort.cpp(50,7): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
