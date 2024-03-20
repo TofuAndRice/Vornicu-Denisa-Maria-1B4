@@ -23,7 +23,7 @@ Sort::Sort(int n, int minim, int maxim) {
 	}
 }
 
-Sort::Sort(): v(new int[5] {1, 2, 3, 4, 5}) { //?????
+Sort::Sort(): v(new int[5] {1, 2, 3, 4, 5}) { 
 	size = 5;
 }
 
